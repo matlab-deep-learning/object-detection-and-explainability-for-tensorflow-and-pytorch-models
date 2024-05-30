@@ -20,7 +20,7 @@ To run the following code, you need:
 
 ## Import and Initialize Network
 
-Import a pretrained TensorFlow model for object detection. The model is in the SavedModel format.
+Import a pretrained TensorFlow model for object detection. The model is in the SavedModel format. You can get the model from the [TensorFlow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md).
 
 ```matlab
 modelFolder = "centernet_resnet50_v2_512x517_coco17";
