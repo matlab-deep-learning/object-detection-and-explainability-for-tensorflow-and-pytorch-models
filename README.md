@@ -19,7 +19,7 @@ To run the following code, you need:
 -  [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)™ 
 -  [Deep Learning Toolbox Converter for TensorFlow Models](https://www.mathworks.com/matlabcentral/fileexchange/64649-deep-learning-toolbox-converter-for-tensorflow-models)™
 -  [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html)™
--  [Deep Learning Toolbox Verification Library]([https://www.mathworks.com/products/computer-vision.html](https://www.mathworks.com/products/deep-learning-verification-library.html))™    
+-  [Deep Learning Toolbox Verification Library]([https://www.mathworks.com/products/computer-vision.html](https://www.mathworks.com/products/deep-learning-verification-library.html)™    
 
 ## Import and Initialize Network
 
@@ -165,7 +165,7 @@ To run the following code, you need:
 
 -  [MATLAB](https://www.mathworks.com/products/matlab.html) R2024a 
 -  [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html)
--  [Deep Learning Toolbox Verification Library]([https://www.mathworks.com/products/computer-vision.html](https://www.mathworks.com/products/deep-learning-verification-library.html))   
+-  [Deep Learning Toolbox Verification Library]([https://www.mathworks.com/products/computer-vision.html](https://www.mathworks.com/products/deep-learning-verification-library.html)   
 -  [Python](https://www.python.org/)® (tested with 3.11.2) 
 -  [PyTorch](https://pytorch.org/) (tested with 2.2.0) 
 -  [TorchVision](https://pytorch.org/vision/stable/index.html) (tested with 0.17.0) 
